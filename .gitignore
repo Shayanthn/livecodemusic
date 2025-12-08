@@ -1,0 +1,10 @@
+# Sonic Pi / Audio
+*.wav
+*.flac
+*.mp3
+*.aiff
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
