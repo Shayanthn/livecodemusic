@@ -71,7 +71,8 @@ Grab the code, run it, remix it. It's all yours.
 | Episode | Track Name | Genre | Vibe Check |
 | :--- | :--- | :--- | :--- |
 | **[EP 00](./Episode-00-Techno-No1/)** | `Techno No.1` | 🏭 Hard Techno | 💯 100% Live Coded |
-| *EP 01* | *Coming Soon...* | 🏠 House | *Loading...* |
+| **[EP 01](./Episode-01-Fur%20Elise/)** | `Fur Elise Remix` | 🎹 Classical Techno | 🔥 Beethoven goes Hard |
+| *EP 02* | *Coming Soon...* | ❓ Mystery | *Loading...* |
 
 ---
 
