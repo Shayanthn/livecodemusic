@@ -74,6 +74,7 @@ Grab the code, run it, remix it. It's all yours.
 | **[EP 01](./Episode-01-Fur%20Elise/)** | `Fur Elise Remix` | 🎹 Classical Techno | 🔥 Beethoven goes Hard |
 | **[EP 02](./Episode-02-Impossible%20Missone%20Theme%20music/)** | `Impossible Mission Theme` | 🎬 Soundtrack / Electronic | 🕵️‍♂️ Spy Vibes Unlocked |
 | **[EP 03](./Episode-03-Thunder%20by%20Imagine%20dragon/)** | `Thunder (Imagine Dragons)` | ⚡ Pop Rock / Electronic | 🌩️ Electrifying Energy |
+| **[EP 04](./Episode-04-MoonLight%20Sonata%20Beethoven/)** | `Moonlight Sonata Beethoven` | 🎹 Classical / Live Coding | 🌙 Timeless & Algorithmic |
 
 ---
 
