@@ -21,6 +21,9 @@
   <a href="https://shayantaherkhani.ir">
     <img src="https://img.shields.io/badge/Chef-Shayan%20Taherkhani-success?style=for-the-badge" alt="Author" />
   </a>
+  <a href="https://ko-fi.com/shayantaherkhani">
+    <img src="https://img.shields.io/badge/Sponsor-Ko--fi%20@shayantaherkhani-FF5E5B?style=for-the-badge&logo=ko-fi" alt="Sponsor on Ko-fi" />
+  </a>
 
   <h1>🎧 Live Code Music: AI, Algorithms & Techno Vibes 🚀</h1>
 
