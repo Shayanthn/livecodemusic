@@ -1,0 +1,17 @@
+# This workflow will automatically thank new GitHub Sponsors and Ko-fi supporters
+# Customize the message and trigger as needed
+
+name: Sponsor Thank You
+
+on:
+  sponsorship:
+  workflow_dispatch:
+
+jobs:
+  thank-sponsor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Thank new sponsor
+        run: |
+          echo "Thank you for supporting via GitHub Sponsors or Ko-fi! 💖"
+          echo "If you supported via Ko-fi: https://ko-fi.com/shayantaherkhani"
