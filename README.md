@@ -9,7 +9,7 @@
   <br />
 
   <!-- Badges -->
-  <a href="https://www.youtube.com/playlist?list=PLrnKtloSIG6FtanjIhrcb4afWir6QN6-f">
+  <a href="https://www.youtube.com/playlist?list=PLrnKtloSIG6GucKaQ_vNw9v2EovPXAzVM">
     <img src="https://img.shields.io/badge/YouTube-Watch%20The%20Series-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube" />
   </a>
   <a href="#">
