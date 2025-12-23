@@ -29,7 +29,7 @@
   </p>
 
   <p>
-    <a href="https://www.youtube.com/playlist?list=PLrnKtloSIG6FtanjIhrcb4afWir6QN6-f">
+    <a href="https://www.youtube.com/playlist?list=PLrnKtloSIG6GucKaQ_vNw9v2EovPXAzVM">
       <img src="https://img.shields.io/badge/▶%20Start%20Binge%20Watching-Click%20Here-FF0000?style=flat-square&logo=youtube&logoColor=white" height="40"/>
     </a>
   </p>
