@@ -1,3 +1,4 @@
+# In the Hall of the Mountain King by Shayan Taherkhani shayantaherkhani.ir
 set :current_bpm, 100
 use_synth :piano
 
