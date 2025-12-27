@@ -79,7 +79,7 @@ Grab the code, run it, remix it. It's all yours.
 | **[EP 03](./Episode-03-Thunder%20by%20Imagine%20dragon/)** | `Thunder (Imagine Dragons)` | ⚡ Pop Rock / Electronic | 🌩️ Electrifying Energy |
 | **[EP 04](./Episode-04-MoonLight%20Sonata%20Beethoven/)** | `Moonlight Sonata Beethoven` | 🎹 Classical / Live Coding | 🌙 Timeless & Algorithmic |
 | **[EP 05](./Episode-05-Seven%20Nation%20Army/)** | `Seven Nation Army` | 🎸 Rock / Electronic | 🏆 Anthemic & Dynamic |
-| **[EP 06](./Episode-06-Mountain King/)** | `In the Hall of the Mountain King` | 🎻 Cinematic Orchestral / Dark Electronic | 🎬 Dramatic & Algorithmic |
+| **[EP 06](./Episode-06-In%20the%20Hall%20of%20the%20Mountain%20King/)** | `In the Hall of the Mountain King` | 🎻 Cinematic Orchestral / Dark Electronic | 🎬 Dramatic & Algorithmic |
 
 ---
 
