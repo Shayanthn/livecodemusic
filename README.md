@@ -81,6 +81,7 @@ Grab the code, run it, remix it. It's all yours.
 | **[EP 05](./Episode-05-Seven%20Nation%20Army/)** | `Seven Nation Army` | 🎸 Rock / Electronic | 🏆 Anthemic & Dynamic |
 | **[EP 06](./Episode-06-In%20the%20Hall%20of%20the%20Mountain%20King/)** | `In the Hall of the Mountain King` | 🎻 Cinematic Orchestral / Dark Electronic | 🎬 Dramatic & Algorithmic |
 | **[EP 07](./Episode-07-Bella%20Ciao/)** | `Bella Ciao Techno Remix` | 🕺 Techno / Electronic | 🇮🇹 Folk Anthem Goes Club |
+| **[EP 08](./Episode-08-Harry%20Potter%20Hedwig's%20Theme/)** | `Hedwig's Theme (Harry Potter)` | 🎬 Fantasy / Orchestral | ✨ Magical & Enchanting |
 
 ---
 
